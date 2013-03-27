@@ -8,4 +8,14 @@
 		<gap:plugin name="FacebookConnect">
   			<param name="APP_ID" value="302909829807855" />
  		</gap:plugin>
+ 		
+ 		<preference>
+			<preference name="prerendered-icon" value="true" />
+			<preference name="exit-on-suspend" value="true" />	
+		</preference>
+		
+		<icon src="resources/icon/Icon.png" gap:platform="ios" width="57" height="57" />
+		<icon src="resources/icon/Icon-72.png" gap:platform="ios" width="72" height="72" />
+		<icon src="resources/icon/Icon-72@2x.png" gap:platform="ios" width="114" height="114" />
+
 	</widget>
