@@ -21,6 +21,7 @@
 		
 		
 		<preference name="show-splash-screen-spinner" value="false" />
+		<preference name="auto-hide-splash-screen" value="false" />
 
 		<gap:splash src="resources/loading/Default-568h@2x" width="563" height="1000" />
 		<gap:splash src="resources/loading/Default-Landscape@2x~ipad" width="2048" height="1496" />
