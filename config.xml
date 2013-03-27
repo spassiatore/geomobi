@@ -19,8 +19,8 @@
 		<icon src="resources/icons/Icon-72.png" gap:platform="ios" width="72" height="72" />
 		<icon src="resources/icons/Icon-72@2x.png" gap:platform="ios" width="114" height="114" />
 		
-		<preference name="show-splash-screen-spinner" value="false" />
-		<preference name="auto-hide-splash-screen" value="false" />
+		<preference name="show-splash-screen-spinner" value="true" />
+		<preference name="auto-hide-splash-screen" value="true" />
 
 		<gap:splash src="resources/loading/Default-568h@2x" width="563" height="1000" />
 		<gap:splash src="resources/loading/Default-Landscape@2x~ipad" width="2048" height="1496" />
