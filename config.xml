@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.example"
+        id        = "it.lineacomune.geomobi"
         versionCode="10" 
-        version   = "1.0.0">
+        version   = "1.0.1">
 
 		<gap:plugin name="FacebookConnect">
   			<param name="APP_ID" value="302909829807855" />
