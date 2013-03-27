@@ -18,6 +18,18 @@
 		<icon src="resources/icons/Icon.png" gap:platform="ios" width="57" height="57" />
 		<icon src="resources/icons/Icon-72.png" gap:platform="ios" width="72" height="72" />
 		<icon src="resources/icons/Icon-72@2x.png" gap:platform="ios" width="114" height="114" />
+		
+		
+		<preference name="show-splash-screen-spinner" value="false" />
+
+		<gap:splash src="resources/loading/Default-568h@2x" width="563" height="1000" />
+		<gap:splash src="resources/loading/Default-Landscape@2x~ipad" width="2048" height="1496" />
+		<gap:splash src="resources/loading/Default-Landscape~ipad" width="1024" height="768" />
+		<gap:splash src="resources/loading/Default-Portrait@2x~ipad" width="1536" height="2008" />
+		<gap:splash src="resources/loading/Default.png" width="320" height="480" />
+		<gap:splash src="resources/loading/Default@2x" width="640" height="960" />
+		<gap:splash src="resources/loading/Default~ipad" width="768" height="1024" />
+
 
 		<gap:plugin name="FacebookConnect">
   			<param name="APP_ID" value="302909829807855" />
