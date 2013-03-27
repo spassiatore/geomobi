@@ -5,12 +5,23 @@
         versionCode="10" 
         version   = "1.0.4">
 
+	    <name>Geomobi</name>
+	
+	    <description>
+	        Geomobi 
+	    </description>
+	
+	    <author href="https://www.lineacomune.it" email="supporto@lineacomune.it">
+	        Linea Comune spa
+	    </author>
+
+		<icon src="resources/icons/Icon.png" gap:platform="ios" width="57" height="57" />
+		<icon src="resources/icons/Icon-72.png" gap:platform="ios" width="72" height="72" />
+		<icon src="resources/icons/Icon-72@2x.png" gap:platform="ios" width="114" height="114" />
+
 		<gap:plugin name="FacebookConnect">
   			<param name="APP_ID" value="302909829807855" />
  		</gap:plugin>
 		
-		<icon src="resources/icon/Icon.png" gap:platform="ios" width="57" height="57" />
-		<icon src="resources/icon/Icon-72.png" gap:platform="ios" width="72" height="72" />
-		<icon src="resources/icon/Icon-72@2x.png" gap:platform="ios" width="114" height="114" />
 
 	</widget>
