@@ -3,8 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "it.lineacomune.geomobi"
         versionCode="10" 
-        version   = "1.0.3">
-
+        version   = "1.0.4">
 
 		<gap:plugin name="FacebookConnect">
   			<param name="APP_ID" value="302909829807855" />
